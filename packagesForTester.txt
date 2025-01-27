@@ -1,0 +1,13 @@
+Pt1 Ankara
+Pt2 HamburgerŞehri
+Pt3 Kolonye
+Pt4 Ankara
+Pt5 HamburgerŞehri
+Pt6 Kolonye
+Pt7 Kolonye
+Pt8 HamburgerŞehri
+Pt9 HamburgerŞehri
+Pt10 Istanbul
+Pt11 Dusseldorfermış
+Pt12 Dusseldorfermış
+Pt13 Dusseldorfermış

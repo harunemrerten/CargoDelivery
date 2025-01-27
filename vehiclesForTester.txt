@@ -1,0 +1,5 @@
+Vel1 Ankara 7.1
+Vel2 HamburgerŞehri 1.1
+Vel3 Kolonye 4.6
+Vel4 Kolonye 3.5
+Vel5 Dusseldorfermış 5.6
