@@ -1,0 +1,1 @@
+This repository was created to learn and practice some list algorithms such as queue and stack, as well as to test my knowledge by implementing them. We have cargo objects and vehicle objects to create a delivery system. We have some text files which consist the missions or city names etc. We are reading these text files so that we can have a fully working Cargo Delivery system.
